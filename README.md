@@ -15,8 +15,8 @@ No ano de 2011 comecei o curso superior em Sistemas de Informação, no UNIPAM, 
 Com o tempo, decidi que direcionaria o meu foco para o desenvolvimento *backend*.
 
 ### Links Úteis 
-<a href="https://danielfs.github.io/" target="_blank">Meu blog</a>   
-<a href="https://danielfs.github.io/curriculum-vitae" target="_blank">Curriculum Vitae</a>
+[Meu blog](https://danielfs.github.io/)   
+[Curriculum Vitae](https://danielfs.github.io/curriculum-vitae)
 
 <!--
 **danielfs/danielfs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

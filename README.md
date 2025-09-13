@@ -1,4 +1,7 @@
-## Olá! Seja bem-vindo ao meu perfil no *Github*. 👋
+## Olá! Seja bem-vindo ao meu perfil no *Github* <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Thumbs%20Up%20Dark%20Skin%20Tone.png" alt="Thumbs Up Dark Skin Tone" width="25" height="25" />
+
+<img src="banner-loop.gif" alt="banner-loop.gif" width="1000" height="150" />
+
 Meu nome é Daniel e conheci o universo da programação em 2005, aos 14 anos, em um curso de Eletrônica Básica no SENAI.   
 Dado a natureza do curso, comecei com Assembly e, em seguida, C/C++.   
 *(pra mim, era impossível programar em Assembly sem desenhar um fluxograma no caderno)*

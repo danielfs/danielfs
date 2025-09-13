@@ -4,7 +4,7 @@
 
 ### Meu começo
 
-Meu nome é Daniel e conheci o universo da programação em 2005, aos 14 anos, em um curso de Eletrônica Básica no SENAI.   
+Eu conheci o universo da programação em 2005, aos 14 anos, em um curso de Eletrônica Básica no SENAI.   
 Dado a natureza do curso, comecei com Assembly e, em seguida, C/C++.   
 *(pra mim, era impossível programar em Assembly sem desenhar um fluxograma no caderno)*
 

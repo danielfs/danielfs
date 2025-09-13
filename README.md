@@ -12,13 +12,6 @@ No ano de 2011 comecei o curso superior em Sistemas de Informação, no UNIPAM, 
 
 Com o tempo, decidi que direcionaria o meu foco para o desenvolvimento *backend*.
 
-De lá pra cá, já tive a oportunidade de atuar com as seguintes linguagens de programação:
-- Go
-- Java
-- Python
-- PHP
-- Node.js
-
 <!--
 **danielfs/danielfs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

@@ -1,6 +1,6 @@
 ## Olá! Seja bem-vindo(a) ao meu perfil no *Github* <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Thumbs%20Up%20Dark%20Skin%20Tone.png" alt="Thumbs Up Dark Skin Tone" width="25" height="25" />
 
-<img src="banner-loop.gif" alt="banner-loop.gif" width="1000" height="150" />
+<img src="https://github.com/danielfs/danielfs/blob/3db148db78fe215316ad6bedd5320992f277f3eb/banner-loop.gif" alt="banner-loop.gif" width="1000" height="150" />
 
 ### Meu começo
 

@@ -16,7 +16,7 @@ Com o tempo, decidi que direcionaria o meu foco para o desenvolvimento *backend*
 
 ### Links Úteis
 <a href="https://danielfs.github.io" target="_blank">Meu blog</a>   
-<a href="https://danielfs.github.io/curriculum-vitae" target="_blank">Curriculum Vitae</a>
+<a href="https://www.linkedin.com/in/daniel-fernandes-silva/" target="_blank">LinkedIn</a>
 
 <!--
 **danielfs/danielfs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
